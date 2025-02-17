@@ -4,7 +4,7 @@ Este repositório contém códigos em **GNU Octave** para simular e visualizar d
 
 - **Dipolo de comprimento 1.4λ** (análise de lóbulos secundários).
 - **Dipolo infinitesimal** (padrão clássico de "8" no plano E).
-- **Cálculo do SWR** Corrigido da Antena (relação de ondas estacionárias).
+- **Cálculo do SWR** (relação de ondas estacionárias).
 
 ## Requisitos
 
@@ -50,7 +50,7 @@ Arquivo: [`calculo_swr.m`](calculo_swr.m)
 
 - **Dipolo de 1.4λ:** Padrão com lóbulos secundários.
 - **Dipolo Infinitesimal:** Formato de "8", sem lóbulos secundários.
-- **SWR Corrigido:** Gráfico da relação de ondas estacionárias em função da frequência.
+- **SWR:** Gráfico da relação de ondas estacionárias em função da frequência.
 
 ## Contribuição
 
