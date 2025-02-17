@@ -36,11 +36,20 @@ Arquivo: [`dipolo_infinitesimal.m`](dipolo_infinitesimal.m)
 ```sh
   octave dipolo_infinitesimal.m
 ```
+### 3. **Cálculo de SWR**
 
+Arquivo: [`calculo_swr.m`](calculo_swr.m)
+
+#### **Como executar:**
+
+```sh
+  octave calculo_swr.m
+```
 ## Exemplo de Saída Gráfica
 
 - **Dipolo de 1.4λ:** Padrão com lóbulos secundários.
 - **Dipolo Infinitesimal:** Formato de "8", sem lóbulos secundários.
+- **SWR Corrigido:** Gráfico da relação de ondas estacionárias em função da frequência.
 
 ## Contribuição
 
